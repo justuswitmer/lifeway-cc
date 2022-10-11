@@ -1,3 +1,5 @@
-## Example app using MongoDB
+## Lifeway Star Wars Code Challenge App
 
-**Important**: When you import your project on Vercel, make sure to click on 
+### After cloning app run the following commands
+
+`yarn install yarn dev`
