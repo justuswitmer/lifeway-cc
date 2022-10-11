@@ -1,6 +1,4 @@
-import Head from 'next/head'
 import Header from "../components/header";
-import Footer from "../components/footer";
 import Search from '../components/search';
 import About from '../components/about';
 
@@ -8,7 +6,6 @@ import { fetchAPI } from '../lib/api';
 import Image from 'next/image';
 import starWarsGif from "../public/assets/starwarsGif.gif";
 import { useState } from 'react';
-import styled from 'styled-components';
 import Films from '../components/films';
 import Starships from '../components/starships';
 
